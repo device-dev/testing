@@ -67,7 +67,7 @@
 
                 axios.get('https://gorest.co.in/public-api/users', {
                         headers: {
-                            Authorization: 'Bearer ' + 'EQNHs0vvyvX7dBNeg75HHhS1-DTYKMFX1BPF'
+                            Authorization: 'Bearer ' + 'xmWmY1siTAU6r0k6LIG2eGP-Ma_93GvfGU8n'
                         }
                     })
                     .then(function(response) {
